@@ -10,8 +10,6 @@ const App = () => {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "277f6cf712msha3aac7393ce9894p1a881ejsn842902308966",
-      "X-RapidAPI-Host": "google-search72.p.rapidapi.com",
     },
   };
 
